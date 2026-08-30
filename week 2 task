@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>My Personal Profile</title>
+</head>
+<body>
+
+<header>
+    <h1>Babu Chy</h1>
+    <p>CSE Student | Premier University</p>
+</header>
+
+<nav>
+    <a href="#about">About</a> |
+    <a href="#education">Education</a> |
+    <a href="#contact">Contact</a>
+</nav>
+
+<main>
+
+<section id="about">
+    <h2>About Me</h2>
+    <article>
+        <p>Hello! I am Babu Chy, a Computer Science and Engineering student at Premier University. I enjoy web development and programming.</p>
+    </article>
+</section>
+
+<section id="education">
+    <h2>Education</h2>
+    <article>
+        <h3>Premier University</h3>
+        <p>B.Sc. in Computer Science and Engineering</p>
+    </article>
+</section>
+
+<aside>
+    <h3>Skills</h3>
+    <ul>
+        <li>HTML</li>
+        <li>CSS</li>
+        <li>C Programming</li>
+        <li>C++</li>
+    </ul>
+</aside>
+
+</main>
+
+<footer id="contact">
+    <h2>Contact</h2>
+    <p>Email: babu@example.com</p>
+    <p>Phone: 018XXXXXXXX</p>
+</footer>
+
+</body>
+</html>
