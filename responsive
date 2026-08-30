@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <style>
+        .card {
+            width: 300px;
+            padding: 20px;
+            background: lightgreen;
+        }
+
+        @media (max-width: 500px) {
+            .card {
+                width: 80%;
+            }
+        }
+    </style>
+</head>
+
+<body>
+
+    <div class="card">
+        <h2>My Card</h2>
+        <p>Hello World!</p>
+    </div>
+
+</body>
+</html>
